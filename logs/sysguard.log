@@ -1,0 +1,4 @@
+[2026-10-26 11:54:56] [INFO] Memulai pengarsipan dari /home/zahra/p09-sysguard/src ke /home/zahra/p09-sysguard/evidence/backup_20261026_115456.tar.gz...
+[2026-10-26 11:54:56] [SUCCESS] Backup berhasil dibuat: /home/zahra/p09-sysguard/evidence/backup_20261026_115456.tar.gz
+[2026-10-26 11:55:11] [ERROR] Eksekusi gagal: Parameter kurang dari 2.
+[2026-10-26 11:55:18] [ERROR] Eksekusi gagal: Direktori /folder_palsu tidak ditemukan.
